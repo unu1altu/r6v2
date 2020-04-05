@@ -6,10 +6,10 @@
 
 3. Open UPlay, login with Ubisoft account, go to Games/R6V2/Download.
 
-4. Get the CD Key from UPlay and store it in a handy place (take a photo with your phone, you'll not be able to copy-paste it in the game).
+4. Get the CD Key from UPlay and store it in a handy place (take a photo with your phone, you'll not be able to copy-paste it in the game). <br/>
 ![uplay](https://raw.githubusercontent.com/unu1altu/r6v2/master/img/1.jpg)
 
-5. Open the game. Configure your character, video settings, etc. Go to Terrorist Hunt/Versus -> Join A Coop Match -> Online. You'll be askted to login with your Ubisoft account. 
+5. Open the game. Configure your character, video settings, etc. Go to Terrorist Hunt/Versus -> Join A Coop Match -> Online. You'll be askted to login with your Ubisoft account. <br/>
 ![r6v2](https://raw.githubusercontent.com/unu1altu/r6v2/master/img/2.jpg)
 
 6. When asked for you CD Key, insert it.
