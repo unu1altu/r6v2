@@ -18,7 +18,7 @@
 
 ---
 
-##Bonus
+## Bonus
 
 BONUS: [settings wich will unlock all weapons and most of armors/clothing](https://github.com/unu1altu/r6v2/raw/master/R6Vegas2.zip) <br/>
 (replace files in Documents/My Games/Ubisoft/R6Vegas2)
